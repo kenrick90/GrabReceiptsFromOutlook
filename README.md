@@ -12,6 +12,10 @@ Features:
 
 PreRequisite:
 1. Grab receipts under "Business" category are sent to your outlook
-2. Python 3
+2. Python 3 installed
 3. Run "pip install comtypes.client" in order for the script to work
 4. pip "pip install PyPDF2" in order for the script to work
+5. Microsoft office word and PDF is installed
+
+Notes:
+1. It can take 10 minutes to process 26 receipts
