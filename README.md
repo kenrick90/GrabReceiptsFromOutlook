@@ -11,7 +11,7 @@ Features:
    b. Value of Receipt
 
 PreRequisite:
-1.Grab receipts under "Business" category are sent to your outlook
-2.Python 3
-3.Run "pip install comtypes.client" in order for the script to work
-4.pip "pip install PyPDF2" in order for the script to work
+1. Grab receipts under "Business" category are sent to your outlook
+2. Python 3
+3. Run "pip install comtypes.client" in order for the script to work
+4. pip "pip install PyPDF2" in order for the script to work
